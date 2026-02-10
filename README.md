@@ -23,10 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![list](https://github.com/user-attachments/assets/2c8a3efe-bf08-4ea5-8af4-7d479ace6948)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+
 
 
 ## Notes
